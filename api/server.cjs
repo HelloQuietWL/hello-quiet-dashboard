@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 
 const app = express();
-const PORT = 3333;
+const PORT = process.env.PORT || 3333;
 
 app.use(cors());
 app.use(express.json());
@@ -331,5 +331,5 @@ app.get("/previsao/:id1/:id2/:pista", (req, res) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`API rodando em http://localhost:${PORT}`);
+    console.log(`API rodando na porta ${PORT}`);
 });
