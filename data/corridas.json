@@ -1,0 +1,5064 @@
+[
+  {
+    "numero": 1,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "21/05/2026, 23:21:07",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "5:14.653"
+      },
+      {
+        "posicao": 2,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "5:15.652"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jota4M",
+        "id": 1922,
+        "tempo": "5:21.410"
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "pista": "JetSam",
+    "modo": "circuit",
+    "data": "21/05/2026, 23:36:07",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "4:07.635"
+      },
+      {
+        "posicao": 2,
+        "nome": "Jota4M",
+        "id": 1922,
+        "tempo": "4:13.742"
+      },
+      {
+        "posicao": 3,
+        "nome": "PHXIS",
+        "id": 144,
+        "tempo": "4:30.315"
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "pista": "VendettB",
+    "modo": "sprint",
+    "data": "22/05/2026, 00:08:30",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Zouwz",
+        "id": 22,
+        "tempo": "6:07.251"
+      },
+      {
+        "posicao": 2,
+        "nome": "Jota4M",
+        "id": 1922,
+        "tempo": "6:20.213"
+      },
+      {
+        "posicao": 3,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "6:37.885"
+      },
+      {
+        "posicao": 4,
+        "nome": "PHXIS",
+        "id": 144,
+        "tempo": "6:45.047"
+      }
+    ]
+  },
+  {
+    "numero": 4,
+    "pista": "Midnight Run",
+    "modo": "sprint",
+    "data": "22/05/2026, 00:22:34",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "7:45.823"
+      },
+      {
+        "posicao": 2,
+        "nome": "Zouwz",
+        "id": 22,
+        "tempo": "7:46.775"
+      },
+      {
+        "posicao": 3,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "8:01.738"
+      },
+      {
+        "posicao": 4,
+        "nome": "down fu panda",
+        "id": 1509,
+        "tempo": "8:02.938"
+      },
+      {
+        "posicao": 5,
+        "nome": "PHXIS",
+        "id": 144,
+        "tempo": "8:07.891"
+      }
+    ]
+  },
+  {
+    "numero": 5,
+    "pista": "Devil's Gambit",
+    "modo": "sprint",
+    "data": "22/05/2026, 00:40:03",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "mestre miyagi",
+        "id": 1839,
+        "tempo": "9:06.139"
+      },
+      {
+        "posicao": 2,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "9:21.652"
+      },
+      {
+        "posicao": 3,
+        "nome": "Zouwz",
+        "id": 22,
+        "tempo": "9:22.857"
+      },
+      {
+        "posicao": 4,
+        "nome": "down fu panda",
+        "id": 1509,
+        "tempo": "9:30.367"
+      },
+      {
+        "posicao": 5,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "9:31.817"
+      },
+      {
+        "posicao": 6,
+        "nome": "PHXIS",
+        "id": 144,
+        "tempo": "10:02.444"
+      },
+      {
+        "posicao": 7,
+        "nome": "MECLOVIN",
+        "id": 8964,
+        "tempo": "11:10.824"
+      }
+    ]
+  },
+  {
+    "numero": 6,
+    "pista": "Apex Predator",
+    "modo": "sprint",
+    "data": "22/05/2026, 00:53:16",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "mestre miyagi",
+        "id": 1839,
+        "tempo": "6:53.619"
+      },
+      {
+        "posicao": 2,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "6:54.373"
+      },
+      {
+        "posicao": 3,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "6:55.823"
+      },
+      {
+        "posicao": 4,
+        "nome": "Zouwz",
+        "id": 22,
+        "tempo": "7:03.078"
+      },
+      {
+        "posicao": 5,
+        "nome": "down fu panda",
+        "id": 1509,
+        "tempo": "7:16.632"
+      },
+      {
+        "posicao": 6,
+        "nome": "PHXIS",
+        "id": 144,
+        "tempo": "7:17.431"
+      }
+    ]
+  },
+  {
+    "numero": 7,
+    "pista": "One Trouble",
+    "modo": "circuit",
+    "data": "22/05/2026, 01:09:43",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "7:51.932"
+      },
+      {
+        "posicao": 2,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "7:57.503"
+      },
+      {
+        "posicao": 3,
+        "nome": "mestre miyagi",
+        "id": 1839,
+        "tempo": "8:02.888"
+      },
+      {
+        "posicao": 4,
+        "nome": "Zouwz",
+        "id": 22,
+        "tempo": "8:04.899"
+      },
+      {
+        "posicao": 5,
+        "nome": "down fu panda",
+        "id": 1509,
+        "tempo": "8:12.636"
+      }
+    ]
+  },
+  {
+    "numero": 8,
+    "pista": "Afterglow",
+    "modo": "sprint",
+    "data": "22/05/2026, 01:27:51",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "mestre miyagi",
+        "id": 1839,
+        "tempo": "10:34.012"
+      },
+      {
+        "posicao": 2,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "10:36.120"
+      },
+      {
+        "posicao": 3,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "10:55.661"
+      }
+    ]
+  },
+  {
+    "numero": 9,
+    "pista": "Vinewood Touge",
+    "modo": "sprint",
+    "data": "22/05/2026, 01:42:37",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "mestre miyagi",
+        "id": 1839,
+        "tempo": "6:12.475"
+      },
+      {
+        "posicao": 2,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "6:14.533"
+      },
+      {
+        "posicao": 3,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "6:23.641"
+      }
+    ]
+  },
+  {
+    "numero": 10,
+    "pista": "Antagonist",
+    "modo": "sprint",
+    "data": "22/05/2026, 02:00:59",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "mestre miyagi",
+        "id": 1839,
+        "tempo": "10:52.147"
+      },
+      {
+        "posicao": 2,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "11:01.450"
+      },
+      {
+        "posicao": 3,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "11:23.050"
+      }
+    ]
+  },
+  {
+    "numero": 11,
+    "pista": "JetSam",
+    "modo": "circuit",
+    "data": "22/05/2026, 02:12:39",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "4:03.063"
+      },
+      {
+        "posicao": 2,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "4:06.233"
+      },
+      {
+        "posicao": 3,
+        "nome": "shift legend",
+        "id": 1839,
+        "tempo": "4:08.148"
+      },
+      {
+        "posicao": 4,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "4:26.515"
+      },
+      {
+        "posicao": 5,
+        "nome": "kong",
+        "id": 98,
+        "tempo": "4:49.148"
+      }
+    ]
+  },
+  {
+    "numero": 12,
+    "pista": "Vinewood Touge",
+    "modo": "sprint",
+    "data": "22/05/2026, 19:52:21",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "6:06.253"
+      },
+      {
+        "posicao": 2,
+        "nome": "carlos",
+        "id": 4544,
+        "tempo": "6:40.937"
+      },
+      {
+        "posicao": 3,
+        "nome": "pe de pano",
+        "id": 3570,
+        "tempo": "6:45.841"
+      },
+      {
+        "posicao": 4,
+        "nome": "kong",
+        "id": 98,
+        "tempo": "7:25.628"
+      }
+    ]
+  },
+  {
+    "numero": 13,
+    "pista": "Double Trouble",
+    "modo": "circuit",
+    "data": "22/05/2026, 20:07:59",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "6:18.570"
+      },
+      {
+        "posicao": 2,
+        "nome": "Zouwz",
+        "id": 22,
+        "tempo": "7:23.725"
+      },
+      {
+        "posicao": 3,
+        "nome": "DuartexAlan",
+        "id": 7151,
+        "tempo": "8:05.546"
+      }
+    ]
+  },
+  {
+    "numero": 14,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "22/05/2026, 21:34:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Jota4M",
+        "id": 1922,
+        "tempo": "5:19.615"
+      },
+      {
+        "posicao": 2,
+        "nome": "AKUMA",
+        "id": 669,
+        "tempo": "5:51.300"
+      },
+      {
+        "posicao": 3,
+        "nome": "arroizz",
+        "id": 7917,
+        "tempo": "7:00.336"
+      }
+    ]
+  },
+  {
+    "numero": 15,
+    "pista": "JetSam",
+    "modo": "circuit",
+    "data": "22/05/2026, 21:49:48",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Jota4M",
+        "id": 1922,
+        "tempo": "4:08.176"
+      },
+      {
+        "posicao": 2,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "4:13.433"
+      },
+      {
+        "posicao": 3,
+        "nome": "Negrão Five Stars",
+        "id": 3099,
+        "tempo": "4:31.708"
+      },
+      {
+        "posicao": 4,
+        "nome": "AKUMA",
+        "id": 669,
+        "tempo": "4:43.061"
+      }
+    ]
+  },
+  {
+    "numero": 16,
+    "pista": "Midnight Run",
+    "modo": "sprint",
+    "data": "23/05/2026, 00:51:20",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "7:49.425"
+      },
+      {
+        "posicao": 2,
+        "nome": "Jota4M",
+        "id": 1922,
+        "tempo": "7:56.432"
+      },
+      {
+        "posicao": 3,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "8:10.499"
+      }
+    ]
+  },
+  {
+    "numero": 17,
+    "pista": "One Trouble",
+    "modo": "circuit",
+    "data": "23/05/2026, 01:08:22",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "7:46.359"
+      },
+      {
+        "posicao": 2,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "8:02.888"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jota4M",
+        "id": 1922,
+        "tempo": "8:11.766"
+      }
+    ]
+  },
+  {
+    "numero": 18,
+    "pista": "The Hot Lap Incident",
+    "modo": "circuit",
+    "data": "23/05/2026, 01:25:33",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "7:35.152"
+      },
+      {
+        "posicao": 2,
+        "nome": "Jota4M",
+        "id": 1922,
+        "tempo": "7:43.408"
+      },
+      {
+        "posicao": 3,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "7:54.263"
+      },
+      {
+        "posicao": 4,
+        "nome": "Negrão Five Stars",
+        "id": 3099,
+        "tempo": "8:47.060"
+      }
+    ]
+  },
+  {
+    "numero": 19,
+    "pista": "Antagonist",
+    "modo": "sprint",
+    "data": "23/05/2026, 01:42:51",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "monster",
+        "id": 7457,
+        "tempo": "10:53.229"
+      },
+      {
+        "posicao": 2,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "11:09.734"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jota4M",
+        "id": 1922,
+        "tempo": "11:10.085"
+      }
+    ]
+  },
+  {
+    "numero": 20,
+    "pista": "Rags to Riches",
+    "modo": "circuit",
+    "data": "23/05/2026, 14:52:34",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "shift legend",
+        "id": 1839,
+        "tempo": "8:29.050"
+      },
+      {
+        "posicao": 2,
+        "nome": "Zouwz",
+        "id": 22,
+        "tempo": "8:30.606"
+      },
+      {
+        "posicao": 3,
+        "nome": "DoLittle",
+        "id": 1899,
+        "tempo": "11:47.405"
+      }
+    ]
+  },
+  {
+    "numero": 21,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "23/05/2026, 15:07:01",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "5:59.245"
+      },
+      {
+        "posicao": 2,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "6:00.197"
+      },
+      {
+        "posicao": 3,
+        "nome": "DoLittle",
+        "id": 1899,
+        "tempo": "6:02.748"
+      }
+    ]
+  },
+  {
+    "numero": 22,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "23/05/2026, 15:19:52",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "5:12.700"
+      },
+      {
+        "posicao": 2,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "5:13.850"
+      },
+      {
+        "posicao": 3,
+        "nome": "DoLittle",
+        "id": 1899,
+        "tempo": "5:21.315"
+      },
+      {
+        "posicao": 4,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "5:50.032"
+      }
+    ]
+  },
+  {
+    "numero": 23,
+    "pista": "VCB Initiation",
+    "modo": "sprint",
+    "data": "23/05/2026, 15:34:17",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "6:34.634"
+      },
+      {
+        "posicao": 2,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "6:36.235"
+      },
+      {
+        "posicao": 3,
+        "nome": "DoLittle",
+        "id": 1899,
+        "tempo": "6:37.743"
+      },
+      {
+        "posicao": 4,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "6:42.495"
+      }
+    ]
+  },
+  {
+    "numero": 24,
+    "pista": "Spirit Fall",
+    "modo": "sprint",
+    "data": "23/05/2026, 16:07:24",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "5:53.378"
+      },
+      {
+        "posicao": 2,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "6:14.343"
+      },
+      {
+        "posicao": 3,
+        "nome": "DoLittle",
+        "id": 1899,
+        "tempo": "6:19.097"
+      }
+    ]
+  },
+  {
+    "numero": 25,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "25/05/2026, 19:43:20",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "5:57.676"
+      },
+      {
+        "posicao": 2,
+        "nome": "bmw gang",
+        "id": 1066,
+        "tempo": "6:08.384"
+      },
+      {
+        "posicao": 3,
+        "nome": "BLANK",
+        "id": 1363,
+        "tempo": "6:28.106"
+      },
+      {
+        "posicao": 4,
+        "nome": "carlos",
+        "id": 4544,
+        "tempo": "6:31.759"
+      }
+    ]
+  },
+  {
+    "numero": 26,
+    "pista": "Double Trouble",
+    "modo": "circuit",
+    "data": "25/05/2026, 21:17:27",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "DoLittle",
+        "id": 1899,
+        "tempo": "6:42.561"
+      },
+      {
+        "posicao": 2,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "7:09.374"
+      },
+      {
+        "posicao": 3,
+        "nome": "RT",
+        "id": 1702,
+        "tempo": "7:38.313"
+      }
+    ]
+  },
+  {
+    "numero": 27,
+    "pista": "JetSam GP",
+    "modo": "circuit",
+    "data": "25/05/2026, 21:38:52",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "8:10.878"
+      },
+      {
+        "posicao": 2,
+        "nome": "DoLittle",
+        "id": 1899,
+        "tempo": "8:22.254"
+      },
+      {
+        "posicao": 3,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "8:41.031"
+      },
+      {
+        "posicao": 4,
+        "nome": "RT",
+        "id": 1702,
+        "tempo": "9:13.033"
+      }
+    ]
+  },
+  {
+    "numero": 28,
+    "pista": "BBD Breeze",
+    "modo": "circuit",
+    "data": "26/05/2026, 18:24:40",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "5:15.777"
+      },
+      {
+        "posicao": 2,
+        "nome": "bmw gang",
+        "id": 1066,
+        "tempo": "5:39.162"
+      },
+      {
+        "posicao": 3,
+        "nome": "BLANK",
+        "id": 1363,
+        "tempo": "5:45.730"
+      },
+      {
+        "posicao": 4,
+        "nome": "pe de pano",
+        "id": 3570,
+        "tempo": "5:57.184"
+      }
+    ]
+  },
+  {
+    "numero": 29,
+    "pista": "Double Trouble",
+    "modo": "circuit",
+    "data": "26/05/2026, 18:38:30",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "6:39.634"
+      },
+      {
+        "posicao": 2,
+        "nome": "bmw gang",
+        "id": 1066,
+        "tempo": "6:40.785"
+      },
+      {
+        "posicao": 3,
+        "nome": "BLANK",
+        "id": 1363,
+        "tempo": "6:42.635"
+      },
+      {
+        "posicao": 4,
+        "nome": "pe de pano",
+        "id": 3570,
+        "tempo": "7:04.105"
+      },
+      {
+        "posicao": 5,
+        "nome": "carlos",
+        "id": 4544,
+        "tempo": "7:15.710"
+      }
+    ]
+  },
+  {
+    "numero": 30,
+    "pista": "Outbreak",
+    "modo": "sprint",
+    "data": "26/05/2026, 18:53:03",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "6:16.193"
+      },
+      {
+        "posicao": 2,
+        "nome": "BLANK",
+        "id": 1363,
+        "tempo": "6:27.806"
+      },
+      {
+        "posicao": 3,
+        "nome": "bmw gang",
+        "id": 1066,
+        "tempo": "6:31.209"
+      },
+      {
+        "posicao": 4,
+        "nome": "carlos",
+        "id": 4544,
+        "tempo": "6:53.629"
+      },
+      {
+        "posicao": 5,
+        "nome": "pe de pano",
+        "id": 3570,
+        "tempo": "6:56.580"
+      },
+      {
+        "posicao": 6,
+        "nome": "Armandinho",
+        "id": 156,
+        "tempo": "7:13.685"
+      }
+    ]
+  },
+  {
+    "numero": 31,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "26/05/2026, 19:07:31",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "5:52.345"
+      },
+      {
+        "posicao": 2,
+        "nome": "RT",
+        "id": 1702,
+        "tempo": "6:24.406"
+      },
+      {
+        "posicao": 3,
+        "nome": "carlos",
+        "id": 4544,
+        "tempo": "6:32.376"
+      }
+    ]
+  },
+  {
+    "numero": 32,
+    "pista": "10-80",
+    "modo": "circuit",
+    "data": "27/05/2026, 01:28:43",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "7:10.403"
+      },
+      {
+        "posicao": 2,
+        "nome": "Mounjaro",
+        "id": 8403,
+        "tempo": "7:15.357"
+      },
+      {
+        "posicao": 3,
+        "nome": "DK",
+        "id": 300,
+        "tempo": "7:17.010"
+      }
+    ]
+  },
+  {
+    "numero": 33,
+    "pista": "BBD Breeze",
+    "modo": "circuit",
+    "data": "27/05/2026, 01:57:12",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:49.999"
+      },
+      {
+        "posicao": 2,
+        "nome": "DK",
+        "id": 300,
+        "tempo": "5:50.951"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mounjaro",
+        "id": 8403,
+        "tempo": "6:29.900"
+      }
+    ]
+  },
+  {
+    "numero": 34,
+    "pista": "Dance Dance Revolution",
+    "modo": "sprint",
+    "data": "27/05/2026, 02:11:18",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:18.618"
+      },
+      {
+        "posicao": 2,
+        "nome": "DK",
+        "id": 300,
+        "tempo": "6:23.126"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mounjaro",
+        "id": 8403,
+        "tempo": "6:37.351"
+      }
+    ]
+  },
+  {
+    "numero": 35,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "27/05/2026, 02:25:22",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:20.273"
+      },
+      {
+        "posicao": 2,
+        "nome": "DK",
+        "id": 300,
+        "tempo": "6:34.400"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mounjaro",
+        "id": 8403,
+        "tempo": "6:41.310"
+      }
+    ]
+  },
+  {
+    "numero": 36,
+    "pista": "Power Lines",
+    "modo": "sprint",
+    "data": "27/05/2026, 02:56:08",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "11:49.496"
+      },
+      {
+        "posicao": 2,
+        "nome": "DK",
+        "id": 300,
+        "tempo": "12:03.163"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mounjaro",
+        "id": 8403,
+        "tempo": "12:14.679"
+      }
+    ]
+  },
+  {
+    "numero": 37,
+    "pista": "XxXx",
+    "modo": "circuit",
+    "data": "27/05/2026, 21:55:47",
+    "participantes": [
+      {
+        "posicao": 2,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "15:07.247"
+      },
+      {
+        "posicao": 3,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "15:25.703"
+      },
+      {
+        "posicao": 4,
+        "nome": "RT",
+        "id": 1702,
+        "tempo": "16:28.529"
+      },
+      {
+        "posicao": 5,
+        "nome": "GTZ",
+        "id": 1927,
+        "tempo": "16:35.897"
+      },
+      {
+        "posicao": 6,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "16:48.558"
+      },
+      {
+        "posicao": 7,
+        "nome": "looser",
+        "id": 282,
+        "tempo": "16:51.112"
+      },
+      {
+        "posicao": 8,
+        "nome": "Relampago",
+        "id": 8574,
+        "tempo": "16:54.471"
+      },
+      {
+        "posicao": 9,
+        "nome": "DarkBaby",
+        "id": 6710,
+        "tempo": "17:40.937"
+      }
+    ]
+  },
+  {
+    "numero": 38,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "28/05/2026, 17:25:27",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "5:56.361"
+      },
+      {
+        "posicao": 2,
+        "nome": "DK",
+        "id": 300,
+        "tempo": "6:20.737"
+      },
+      {
+        "posicao": 3,
+        "nome": "BLANK",
+        "id": 1363,
+        "tempo": "6:20.937"
+      },
+      {
+        "posicao": 4,
+        "nome": "matias",
+        "id": 125,
+        "tempo": "6:23.538"
+      }
+    ]
+  },
+  {
+    "numero": 39,
+    "pista": "10-80",
+    "modo": "circuit",
+    "data": "28/05/2026, 18:54:44",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "6:16.875"
+      },
+      {
+        "posicao": 2,
+        "nome": "bmw gang",
+        "id": 1066,
+        "tempo": "6:21.927"
+      },
+      {
+        "posicao": 3,
+        "nome": "zleo",
+        "id": 1660,
+        "tempo": "6:30.235"
+      }
+    ]
+  },
+  {
+    "numero": 40,
+    "pista": "Concrete Corners",
+    "modo": "circuit",
+    "data": "28/05/2026, 21:09:50",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Dan",
+        "id": 20,
+        "tempo": "5:03.962"
+      },
+      {
+        "posicao": 2,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "5:27.461"
+      },
+      {
+        "posicao": 3,
+        "nome": "Wesley",
+        "id": 8046,
+        "tempo": "5:34.688"
+      },
+      {
+        "posicao": 4,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "5:52.663"
+      }
+    ]
+  },
+  {
+    "numero": 41,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "28/05/2026, 21:38:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "5:21.830"
+      },
+      {
+        "posicao": 2,
+        "nome": "Wesley",
+        "id": 8046,
+        "tempo": "5:27.594"
+      },
+      {
+        "posicao": 3,
+        "nome": "Dk",
+        "id": 1101,
+        "tempo": "6:07.366"
+      }
+    ]
+  },
+  {
+    "numero": 42,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "28/05/2026, 21:54:08",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "6:08.247"
+      },
+      {
+        "posicao": 2,
+        "nome": "Dan",
+        "id": 20,
+        "tempo": "6:10.348"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "6:24.869"
+      },
+      {
+        "posicao": 4,
+        "nome": "Wesley",
+        "id": 8046,
+        "tempo": "6:46.807"
+      },
+      {
+        "posicao": 5,
+        "nome": "Dk",
+        "id": 1101,
+        "tempo": "7:13.855"
+      }
+    ]
+  },
+  {
+    "numero": 43,
+    "pista": "10-80",
+    "modo": "circuit",
+    "data": "28/05/2026, 22:09:46",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "6:35.849"
+      },
+      {
+        "posicao": 2,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "6:37.403"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "7:03.071"
+      },
+      {
+        "posicao": 4,
+        "nome": "Carioca",
+        "id": 9132,
+        "tempo": "7:17.660"
+      },
+      {
+        "posicao": 5,
+        "nome": "Dk",
+        "id": 1101,
+        "tempo": "7:59.949"
+      }
+    ]
+  },
+  {
+    "numero": 44,
+    "pista": "Double Trouble",
+    "modo": "circuit",
+    "data": "28/05/2026, 22:24:38",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "6:23.332"
+      },
+      {
+        "posicao": 2,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "7:00.686"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "7:11.301"
+      },
+      {
+        "posicao": 4,
+        "nome": "Carioca",
+        "id": 9132,
+        "tempo": "7:27.489"
+      },
+      {
+        "posicao": 5,
+        "nome": "Dk",
+        "id": 1101,
+        "tempo": "8:25.359"
+      }
+    ]
+  },
+  {
+    "numero": 45,
+    "pista": "Downtown Throwdown",
+    "modo": "circuit",
+    "data": "28/05/2026, 22:41:39",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "5:22.946"
+      },
+      {
+        "posicao": 2,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:46.728"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:05.054"
+      }
+    ]
+  },
+  {
+    "numero": 46,
+    "pista": "BBD Breeze",
+    "modo": "circuit",
+    "data": "28/05/2026, 22:53:59",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "5:22.018"
+      },
+      {
+        "posicao": 2,
+        "nome": "Wesley",
+        "id": 8046,
+        "tempo": "5:47.566"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:51.734"
+      },
+      {
+        "posicao": 4,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "5:58.106"
+      },
+      {
+        "posicao": 5,
+        "nome": "Carioca",
+        "id": 9132,
+        "tempo": "6:18.510"
+      }
+    ]
+  },
+  {
+    "numero": 47,
+    "pista": "Eastside Oilers",
+    "modo": "circuit",
+    "data": "28/05/2026, 23:06:01",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "5:27.738"
+      },
+      {
+        "posicao": 2,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:53.969"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:05.564"
+      }
+    ]
+  },
+  {
+    "numero": 48,
+    "pista": "JetSam",
+    "modo": "circuit",
+    "data": "28/05/2026, 23:16:58",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "4:09.579"
+      },
+      {
+        "posicao": 2,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "4:21.053"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "4:31.287"
+      }
+    ]
+  },
+  {
+    "numero": 49,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "29/05/2026, 18:58:23",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "5:57.850"
+      },
+      {
+        "posicao": 2,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "5:58.312"
+      },
+      {
+        "posicao": 3,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "6:02.715"
+      }
+    ]
+  },
+  {
+    "numero": 50,
+    "pista": "JetSam",
+    "modo": "circuit",
+    "data": "29/05/2026, 19:20:19",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "4:01.314"
+      },
+      {
+        "posicao": 2,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "4:01.315"
+      },
+      {
+        "posicao": 3,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "4:01.614"
+      },
+      {
+        "posicao": 4,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "4:06.465"
+      },
+      {
+        "posicao": 5,
+        "nome": "Cleitin",
+        "id": 3665,
+        "tempo": "4:12.119"
+      },
+      {
+        "posicao": 6,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "4:16.821"
+      }
+    ]
+  },
+  {
+    "numero": 51,
+    "pista": "Midnight Run",
+    "modo": "sprint",
+    "data": "29/05/2026, 19:35:36",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "7:36.082"
+      },
+      {
+        "posicao": 2,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "7:42.228"
+      },
+      {
+        "posicao": 3,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "7:46.963"
+      },
+      {
+        "posicao": 4,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "7:53.113"
+      },
+      {
+        "posicao": 5,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "8:14.570"
+      },
+      {
+        "posicao": 6,
+        "nome": "Constantine",
+        "id": 8479,
+        "tempo": "8:43.380"
+      }
+    ]
+  },
+  {
+    "numero": 52,
+    "pista": "Antagonist",
+    "modo": "sprint",
+    "data": "29/05/2026, 19:56:00",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "11:20.039"
+      },
+      {
+        "posicao": 2,
+        "nome": "MR BEAN",
+        "id": 7747,
+        "tempo": "12:16.529"
+      },
+      {
+        "posicao": 3,
+        "nome": "Constantine",
+        "id": 8479,
+        "tempo": "13:10.905"
+      },
+      {
+        "posicao": 4,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "14:04.506"
+      },
+      {
+        "posicao": 5,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "14:22.267"
+      }
+    ]
+  },
+  {
+    "numero": 53,
+    "pista": "Devil's Gambit",
+    "modo": "sprint",
+    "data": "29/05/2026, 20:12:34",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "9:09.530"
+      },
+      {
+        "posicao": 2,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "9:10.280"
+      },
+      {
+        "posicao": 3,
+        "nome": "MR BEAN",
+        "id": 7747,
+        "tempo": "9:27.648"
+      },
+      {
+        "posicao": 4,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "9:33.051"
+      }
+    ]
+  },
+  {
+    "numero": 54,
+    "pista": "Apex Predator",
+    "modo": "sprint",
+    "data": "29/05/2026, 20:25:56",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "6:50.206"
+      },
+      {
+        "posicao": 2,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "6:52.556"
+      },
+      {
+        "posicao": 3,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "6:55.709"
+      },
+      {
+        "posicao": 4,
+        "nome": "MR BEAN",
+        "id": 7747,
+        "tempo": "7:27.029"
+      }
+    ]
+  },
+  {
+    "numero": 55,
+    "pista": "Afterglow",
+    "modo": "sprint",
+    "data": "29/05/2026, 20:45:20",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "10:28.600"
+      },
+      {
+        "posicao": 2,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "10:35.704"
+      },
+      {
+        "posicao": 3,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "11:17.648"
+      },
+      {
+        "posicao": 4,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "11:19.099"
+      },
+      {
+        "posicao": 5,
+        "nome": "MR BEAN",
+        "id": 7747,
+        "tempo": "11:31.807"
+      },
+      {
+        "posicao": 6,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "12:15.393"
+      }
+    ]
+  },
+  {
+    "numero": 56,
+    "pista": "Afterglow",
+    "modo": "sprint",
+    "data": "29/05/2026, 23:12:07",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "11:47.684"
+      },
+      {
+        "posicao": 2,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "12:02.689"
+      },
+      {
+        "posicao": 3,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "14:16.143"
+      }
+    ]
+  },
+  {
+    "numero": 57,
+    "pista": "Guillotine",
+    "modo": "sprint",
+    "data": "29/05/2026, 23:29:47",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "8:08.502"
+      },
+      {
+        "posicao": 2,
+        "nome": "Godzila",
+        "id": 9431,
+        "tempo": "9:18.980"
+      },
+      {
+        "posicao": 3,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "9:29.355"
+      }
+    ]
+  },
+  {
+    "numero": 58,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "29/05/2026, 23:47:36",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:44.082"
+      },
+      {
+        "posicao": 2,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "5:48.154"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:22.998"
+      },
+      {
+        "posicao": 4,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "6:23.899"
+      },
+      {
+        "posicao": 5,
+        "nome": "Godzila",
+        "id": 9431,
+        "tempo": "6:25.901"
+      }
+    ]
+  },
+  {
+    "numero": 59,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "30/05/2026, 14:28:47",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:45.391"
+      },
+      {
+        "posicao": 2,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "6:20.723"
+      },
+      {
+        "posicao": 3,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "6:57.069"
+      }
+    ]
+  },
+  {
+    "numero": 60,
+    "pista": "10-80",
+    "modo": "circuit",
+    "data": "30/05/2026, 15:39:08",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "6:17.927"
+      },
+      {
+        "posicao": 2,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "6:24.030"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:28.330"
+      },
+      {
+        "posicao": 4,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "6:35.931"
+      },
+      {
+        "posicao": 5,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "6:53.635"
+      }
+    ]
+  },
+  {
+    "numero": 61,
+    "pista": "Downtown Throwdown",
+    "modo": "circuit",
+    "data": "30/05/2026, 15:53:37",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:52.190"
+      },
+      {
+        "posicao": 2,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "5:53.740"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "5:56.044"
+      },
+      {
+        "posicao": 4,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "5:56.898"
+      },
+      {
+        "posicao": 5,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "6:14.193"
+      }
+    ]
+  },
+  {
+    "numero": 62,
+    "pista": "Spirit Fall",
+    "modo": "sprint",
+    "data": "30/05/2026, 16:08:07",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "6:22.874"
+      },
+      {
+        "posicao": 2,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "6:23.474"
+      },
+      {
+        "posicao": 3,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "6:32.074"
+      },
+      {
+        "posicao": 4,
+        "nome": "erro404user",
+        "id": 106,
+        "tempo": "7:51.137"
+      },
+      {
+        "posicao": 5,
+        "nome": "APOLLO",
+        "id": 9377,
+        "tempo": "8:07.642"
+      }
+    ]
+  },
+  {
+    "numero": 63,
+    "pista": "On The Way To Lockdown",
+    "modo": "circuit",
+    "data": "30/05/2026, 16:23:37",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "8:27.464"
+      },
+      {
+        "posicao": 2,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "8:29.314"
+      },
+      {
+        "posicao": 3,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "8:41.264"
+      }
+    ]
+  },
+  {
+    "numero": 64,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "30/05/2026, 16:35:28",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "5:29.963"
+      },
+      {
+        "posicao": 2,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "5:31.064"
+      },
+      {
+        "posicao": 3,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "5:40.315"
+      },
+      {
+        "posicao": 4,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:42.616"
+      }
+    ]
+  },
+  {
+    "numero": 65,
+    "pista": "BBD Breeze",
+    "modo": "circuit",
+    "data": "30/05/2026, 16:47:25",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "5:40.381"
+      },
+      {
+        "posicao": 2,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:42.281"
+      },
+      {
+        "posicao": 3,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "5:56.953"
+      }
+    ]
+  },
+  {
+    "numero": 66,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "30/05/2026, 17:01:53",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Senninha",
+        "id": 211,
+        "tempo": "6:12.484"
+      },
+      {
+        "posicao": 2,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "6:16.937"
+      },
+      {
+        "posicao": 3,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "6:18.037"
+      },
+      {
+        "posicao": 4,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "6:27.106"
+      },
+      {
+        "posicao": 5,
+        "nome": "—",
+        "id": 8790,
+        "tempo": "7:14.615"
+      },
+      {
+        "posicao": 6,
+        "nome": "jottax7",
+        "id": 7264,
+        "tempo": "7:58.494"
+      }
+    ]
+  },
+  {
+    "numero": 67,
+    "pista": "Redline Touge",
+    "modo": "sprint",
+    "data": "30/05/2026, 17:20:50",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Senninha",
+        "id": 211,
+        "tempo": "11:11.859"
+      },
+      {
+        "posicao": 2,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "11:16.831"
+      },
+      {
+        "posicao": 3,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "11:21.281"
+      },
+      {
+        "posicao": 4,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "11:39.240"
+      },
+      {
+        "posicao": 5,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "11:41.641"
+      }
+    ]
+  },
+  {
+    "numero": 68,
+    "pista": "Concrete Corners",
+    "modo": "circuit",
+    "data": "30/05/2026, 17:50:53",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "5:20.545"
+      },
+      {
+        "posicao": 2,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "5:27.096"
+      },
+      {
+        "posicao": 3,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "5:31.449"
+      }
+    ]
+  },
+  {
+    "numero": 69,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "30/05/2026, 18:43:40",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "6:10.743"
+      },
+      {
+        "posicao": 2,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "6:29.152"
+      },
+      {
+        "posicao": 3,
+        "nome": "Relampago",
+        "id": 8574,
+        "tempo": "7:32.903"
+      }
+    ]
+  },
+  {
+    "numero": 70,
+    "pista": "Afterglow",
+    "modo": "sprint",
+    "data": "30/05/2026, 19:05:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "11:10.212"
+      },
+      {
+        "posicao": 2,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "11:45.745"
+      },
+      {
+        "posicao": 3,
+        "nome": "Lia",
+        "id": 442,
+        "tempo": "13:06.295"
+      },
+      {
+        "posicao": 4,
+        "nome": "CHICANO",
+        "id": 1484,
+        "tempo": "13:15.549"
+      }
+    ]
+  },
+  {
+    "numero": 71,
+    "pista": "Guillotine",
+    "modo": "sprint",
+    "data": "30/05/2026, 19:19:19",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "7:48.344"
+      },
+      {
+        "posicao": 2,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "8:06.521"
+      },
+      {
+        "posicao": 3,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "8:08.222"
+      },
+      {
+        "posicao": 4,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "8:15.130"
+      },
+      {
+        "posicao": 5,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "8:17.081"
+      }
+    ]
+  },
+  {
+    "numero": 72,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "30/05/2026, 20:39:20",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "5:16.485"
+      },
+      {
+        "posicao": 2,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "5:35.702"
+      },
+      {
+        "posicao": 3,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "5:56.778"
+      },
+      {
+        "posicao": 4,
+        "nome": "Lia",
+        "id": 442,
+        "tempo": "6:05.644"
+      }
+    ]
+  },
+  {
+    "numero": 73,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "30/05/2026, 21:38:14",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "37 / zouwz",
+        "id": 22,
+        "tempo": "5:54.961"
+      },
+      {
+        "posicao": 2,
+        "nome": "hazard I 1839",
+        "id": 1839,
+        "tempo": "6:03.620"
+      },
+      {
+        "posicao": 3,
+        "nome": "1066 | Psy",
+        "id": 1066,
+        "tempo": "6:03.920"
+      },
+      {
+        "posicao": 4,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "6:05.671"
+      },
+      {
+        "posicao": 5,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "6:08.575"
+      },
+      {
+        "posicao": 6,
+        "nome": "RSETE/180",
+        "id": 180,
+        "tempo": "6:13.782"
+      },
+      {
+        "posicao": 7,
+        "nome": "SIXX | 220",
+        "id": 220,
+        "tempo": "6:20.690"
+      },
+      {
+        "posicao": 8,
+        "nome": "1361| blank",
+        "id": 1363,
+        "tempo": "6:22.889"
+      },
+      {
+        "posicao": 9,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "6:26.494"
+      },
+      {
+        "posicao": 10,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "6:26.844"
+      },
+      {
+        "posicao": 11,
+        "nome": "RT - 1702",
+        "id": 1702,
+        "tempo": "6:28.295"
+      },
+      {
+        "posicao": 12,
+        "nome": "Constantine",
+        "id": 8479,
+        "tempo": "6:34.524"
+      },
+      {
+        "posicao": 13,
+        "nome": "Ismael Sevenx | 302",
+        "id": 302,
+        "tempo": "6:37.628"
+      },
+      {
+        "posicao": 14,
+        "nome": "Dellas1566",
+        "id": 1566,
+        "tempo": "6:40.927"
+      },
+      {
+        "posicao": 15,
+        "nome": "[KAY] Lia - 442",
+        "id": 442,
+        "tempo": "6:46.888"
+      },
+      {
+        "posicao": 16,
+        "nome": "joey",
+        "id": 9626,
+        "tempo": "6:50.945"
+      },
+      {
+        "posicao": 17,
+        "nome": "Gomes8447",
+        "id": 8447,
+        "tempo": "6:57.104"
+      },
+      {
+        "posicao": 18,
+        "nome": "Felipex 8826",
+        "id": 8826,
+        "tempo": "7:07.217"
+      },
+      {
+        "posicao": 19,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "7:07.919"
+      },
+      {
+        "posicao": 20,
+        "nome": "Marques Lobo 108",
+        "id": 108,
+        "tempo": "7:10.224"
+      },
+      {
+        "posicao": 21,
+        "nome": "HenrryZada 3620",
+        "id": 3620,
+        "tempo": "8:13.855"
+      }
+    ]
+  },
+  {
+    "numero": 74,
+    "pista": "Afterglow",
+    "modo": "sprint",
+    "data": "30/05/2026, 22:08:18",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard I 1839",
+        "id": 1839,
+        "tempo": "10:32.396"
+      },
+      {
+        "posicao": 2,
+        "nome": "37 / zouwz",
+        "id": 22,
+        "tempo": "10:40.750"
+      },
+      {
+        "posicao": 3,
+        "nome": "1066 | Psy",
+        "id": 1066,
+        "tempo": "10:45.771"
+      },
+      {
+        "posicao": 4,
+        "nome": "1207|SHINA",
+        "id": 1207,
+        "tempo": "11:05.213"
+      },
+      {
+        "posicao": 5,
+        "nome": "Dellas1566",
+        "id": 1566,
+        "tempo": "11:07.818"
+      },
+      {
+        "posicao": 6,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "11:08.128"
+      },
+      {
+        "posicao": 7,
+        "nome": "RSETE/180",
+        "id": 180,
+        "tempo": "11:10.069"
+      },
+      {
+        "posicao": 8,
+        "nome": "Lsete 211",
+        "id": 211,
+        "tempo": "11:13.572"
+      },
+      {
+        "posicao": 9,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "11:15.773"
+      },
+      {
+        "posicao": 10,
+        "nome": "1361| blank",
+        "id": 1363,
+        "tempo": "11:22.529"
+      },
+      {
+        "posicao": 11,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "11:30.086"
+      },
+      {
+        "posicao": 12,
+        "nome": "SIXX | 220",
+        "id": 220,
+        "tempo": "11:30.939"
+      },
+      {
+        "posicao": 13,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "11:33.747"
+      },
+      {
+        "posicao": 14,
+        "nome": "RT - 1702",
+        "id": 1702,
+        "tempo": "11:44.218"
+      },
+      {
+        "posicao": 15,
+        "nome": "Ismael Sevenx | 302",
+        "id": 302,
+        "tempo": "11:45.367"
+      },
+      {
+        "posicao": 16,
+        "nome": "kong",
+        "id": 98,
+        "tempo": "11:54.880"
+      },
+      {
+        "posicao": 17,
+        "nome": "Marques Lobo 108",
+        "id": 108,
+        "tempo": "12:12.357"
+      },
+      {
+        "posicao": 18,
+        "nome": "matheus 2588",
+        "id": 2588,
+        "tempo": "12:17.021"
+      },
+      {
+        "posicao": 19,
+        "nome": "ARABELLA 1422",
+        "id": 1422,
+        "tempo": "12:17.222"
+      },
+      {
+        "posicao": 20,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "12:18.373"
+      },
+      {
+        "posicao": 21,
+        "nome": "[KAY] Lia - 442",
+        "id": 442,
+        "tempo": "12:21.573"
+      },
+      {
+        "posicao": 22,
+        "nome": "joey",
+        "id": 9626,
+        "tempo": "12:27.145"
+      }
+    ]
+  },
+  {
+    "numero": 75,
+    "pista": "Guillotine",
+    "modo": "sprint",
+    "data": "30/05/2026, 22:26:35",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard I 1839",
+        "id": 1839,
+        "tempo": "7:49.402"
+      },
+      {
+        "posicao": 2,
+        "nome": "37 / zouwz",
+        "id": 22,
+        "tempo": "7:49.649"
+      },
+      {
+        "posicao": 3,
+        "nome": "1066 | Psy",
+        "id": 1066,
+        "tempo": "7:50.100"
+      },
+      {
+        "posicao": 4,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "7:50.549"
+      },
+      {
+        "posicao": 5,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "7:52.501"
+      },
+      {
+        "posicao": 6,
+        "nome": "RSETE/180",
+        "id": 180,
+        "tempo": "8:06.761"
+      },
+      {
+        "posicao": 7,
+        "nome": "Lsete 211",
+        "id": 211,
+        "tempo": "8:10.715"
+      },
+      {
+        "posicao": 8,
+        "nome": "1361| blank",
+        "id": 1363,
+        "tempo": "8:13.319"
+      },
+      {
+        "posicao": 9,
+        "nome": "Dellas1566",
+        "id": 1566,
+        "tempo": "8:13.569"
+      },
+      {
+        "posicao": 10,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "8:15.120"
+      },
+      {
+        "posicao": 11,
+        "nome": "HenrryZada 3620",
+        "id": 3620,
+        "tempo": "8:15.220"
+      },
+      {
+        "posicao": 12,
+        "nome": "1207|SHINA",
+        "id": 1207,
+        "tempo": "8:16.771"
+      },
+      {
+        "posicao": 13,
+        "nome": "SIXX | 220",
+        "id": 220,
+        "tempo": "8:22.727"
+      },
+      {
+        "posicao": 14,
+        "nome": "kong",
+        "id": 98,
+        "tempo": "8:29.835"
+      },
+      {
+        "posicao": 15,
+        "nome": "RT - 1702",
+        "id": 1702,
+        "tempo": "8:32.451"
+      },
+      {
+        "posicao": 16,
+        "nome": "matheus 2588",
+        "id": 2588,
+        "tempo": "8:50.008"
+      },
+      {
+        "posicao": 17,
+        "nome": "[KAY] Lia - 442",
+        "id": 442,
+        "tempo": "8:50.862"
+      },
+      {
+        "posicao": 18,
+        "nome": "Ismael Sevenx | 302",
+        "id": 302,
+        "tempo": "9:00.730"
+      },
+      {
+        "posicao": 19,
+        "nome": "Marques Lobo 108",
+        "id": 108,
+        "tempo": "9:00.930"
+      },
+      {
+        "posicao": 20,
+        "nome": "ARABELLA 1422",
+        "id": 1422,
+        "tempo": "9:16.176"
+      }
+    ]
+  },
+  {
+    "numero": 76,
+    "pista": "JetSam",
+    "modo": "circuit",
+    "data": "30/05/2026, 23:06:06",
+    "participantes": [
+      {
+        "posicao": 2,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "4:15.553"
+      },
+      {
+        "posicao": 3,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "4:20.908"
+      },
+      {
+        "posicao": 4,
+        "nome": "777",
+        "id": 100,
+        "tempo": "4:34.281"
+      },
+      {
+        "posicao": 5,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "4:35.286"
+      },
+      {
+        "posicao": 6,
+        "nome": "SIXX | 220",
+        "id": 220,
+        "tempo": "4:49.052"
+      }
+    ]
+  },
+  {
+    "numero": 77,
+    "pista": "Eastside Oilers",
+    "modo": "circuit",
+    "data": "30/05/2026, 23:20:46",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "37 / zouwz",
+        "id": 22,
+        "tempo": "5:26.609"
+      },
+      {
+        "posicao": 2,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "5:39.820"
+      },
+      {
+        "posicao": 3,
+        "nome": "777",
+        "id": 100,
+        "tempo": "6:14.025"
+      },
+      {
+        "posicao": 4,
+        "nome": "SIXX | 220",
+        "id": 220,
+        "tempo": "6:15.675"
+      },
+      {
+        "posicao": 5,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:35.399"
+      },
+      {
+        "posicao": 6,
+        "nome": "Carioca",
+        "id": 9132,
+        "tempo": "6:47.114"
+      }
+    ]
+  },
+  {
+    "numero": 78,
+    "pista": "Concrete Corners",
+    "modo": "circuit",
+    "data": "30/05/2026, 23:34:48",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "5:21.097"
+      },
+      {
+        "posicao": 2,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "5:40.890"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:42.700"
+      },
+      {
+        "posicao": 4,
+        "nome": "Carioca",
+        "id": 9132,
+        "tempo": "6:01.279"
+      }
+    ]
+  },
+  {
+    "numero": 79,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "30/05/2026, 23:48:11",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "6:11.094"
+      },
+      {
+        "posicao": 2,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "6:20.952"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:24.909"
+      },
+      {
+        "posicao": 4,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:50.530"
+      }
+    ]
+  },
+  {
+    "numero": 80,
+    "pista": "Dance Dance Revolution",
+    "modo": "sprint",
+    "data": "31/05/2026, 00:00:42",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "5:57.424"
+      },
+      {
+        "posicao": 2,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "6:07.483"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:08.335"
+      },
+      {
+        "posicao": 4,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "6:11.692"
+      },
+      {
+        "posicao": 5,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:33.622"
+      }
+    ]
+  },
+  {
+    "numero": 81,
+    "pista": "Directors Cut",
+    "modo": "circuit",
+    "data": "31/05/2026, 00:14:42",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "6:59.564"
+      },
+      {
+        "posicao": 2,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "7:03.066"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "7:18.712"
+      },
+      {
+        "posicao": 4,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "7:20.613"
+      },
+      {
+        "posicao": 5,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "7:26.816"
+      }
+    ]
+  },
+  {
+    "numero": 82,
+    "pista": "Spirit Fall",
+    "modo": "sprint",
+    "data": "31/05/2026, 00:27:47",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "6:11.208"
+      },
+      {
+        "posicao": 2,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "6:11.808"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:55.524"
+      }
+    ]
+  },
+  {
+    "numero": 83,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "6:08.247"
+      },
+      {
+        "posicao": 2,
+        "nome": "Dan",
+        "id": 20,
+        "tempo": "6:10.348"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "6:24.869"
+      },
+      {
+        "posicao": 4,
+        "nome": "Wesley",
+        "id": 8046,
+        "tempo": "6:46.807"
+      },
+      {
+        "posicao": 5,
+        "nome": "Dk",
+        "id": 1101,
+        "tempo": "7:13.855"
+      }
+    ]
+  },
+  {
+    "numero": 84,
+    "pista": "10-80",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "6:35.849"
+      },
+      {
+        "posicao": 2,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "6:37.403"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "7:03.071"
+      },
+      {
+        "posicao": 4,
+        "nome": "Carioca",
+        "id": 9132,
+        "tempo": "7:17.660"
+      },
+      {
+        "posicao": 5,
+        "nome": "Dk",
+        "id": 1101,
+        "tempo": "7:59.949"
+      }
+    ]
+  },
+  {
+    "numero": 85,
+    "pista": "Double Trouble",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "6:23.332"
+      },
+      {
+        "posicao": 2,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "7:00.686"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "7:11.301"
+      },
+      {
+        "posicao": 4,
+        "nome": "Carioca",
+        "id": 9132,
+        "tempo": "7:27.489"
+      },
+      {
+        "posicao": 5,
+        "nome": "Dk",
+        "id": 1101,
+        "tempo": "8:25.359"
+      }
+    ]
+  },
+  {
+    "numero": 86,
+    "pista": "Downtown Throwdown",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "5:22.946"
+      },
+      {
+        "posicao": 2,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:46.728"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:05.054"
+      }
+    ]
+  },
+  {
+    "numero": 87,
+    "pista": "BBD Breeze",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "5:22.018"
+      },
+      {
+        "posicao": 2,
+        "nome": "Wesley",
+        "id": 8046,
+        "tempo": "5:47.566"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:51.734"
+      },
+      {
+        "posicao": 4,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "5:58.106"
+      },
+      {
+        "posicao": 5,
+        "nome": "Carioca",
+        "id": 9132,
+        "tempo": "6:18.510"
+      }
+    ]
+  },
+  {
+    "numero": 88,
+    "pista": "Eastside Oilers",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "5:27.738"
+      },
+      {
+        "posicao": 2,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:53.969"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:05.564"
+      }
+    ]
+  },
+  {
+    "numero": 89,
+    "pista": "JetSam",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "4:09.579"
+      },
+      {
+        "posicao": 2,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "4:21.053"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "4:31.287"
+      }
+    ]
+  },
+  {
+    "numero": 90,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "5:57.850"
+      },
+      {
+        "posicao": 2,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "5:58.312"
+      },
+      {
+        "posicao": 3,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "6:02.715"
+      }
+    ]
+  },
+  {
+    "numero": 91,
+    "pista": "JetSam",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "4:01.314"
+      },
+      {
+        "posicao": 2,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "4:01.315"
+      },
+      {
+        "posicao": 3,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "4:01.614"
+      },
+      {
+        "posicao": 4,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "4:06.465"
+      },
+      {
+        "posicao": 5,
+        "nome": "Cleitin",
+        "id": 3665,
+        "tempo": "4:12.119"
+      },
+      {
+        "posicao": 6,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "4:16.821"
+      }
+    ]
+  },
+  {
+    "numero": 92,
+    "pista": "Midnight Run",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "goat",
+        "id": 43,
+        "tempo": "7:36.082"
+      },
+      {
+        "posicao": 2,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "7:42.228"
+      },
+      {
+        "posicao": 3,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "7:46.963"
+      },
+      {
+        "posicao": 4,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "7:53.113"
+      },
+      {
+        "posicao": 5,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "8:14.570"
+      },
+      {
+        "posicao": 6,
+        "nome": "Constantine",
+        "id": 8479,
+        "tempo": "8:43.380"
+      }
+    ]
+  },
+  {
+    "numero": 93,
+    "pista": "Antagonist",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "11:20.039"
+      },
+      {
+        "posicao": 2,
+        "nome": "MR BEAN",
+        "id": 7747,
+        "tempo": "12:16.529"
+      },
+      {
+        "posicao": 3,
+        "nome": "Constantine",
+        "id": 8479,
+        "tempo": "13:10.905"
+      },
+      {
+        "posicao": 4,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "14:04.506"
+      },
+      {
+        "posicao": 5,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "14:22.267"
+      }
+    ]
+  },
+  {
+    "numero": 94,
+    "pista": "Devil's Gambit",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "9:09.530"
+      },
+      {
+        "posicao": 2,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "9:10.280"
+      },
+      {
+        "posicao": 3,
+        "nome": "MR BEAN",
+        "id": 7747,
+        "tempo": "9:27.648"
+      },
+      {
+        "posicao": 4,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "9:33.051"
+      }
+    ]
+  },
+  {
+    "numero": 95,
+    "pista": "Apex Predator",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "6:50.206"
+      },
+      {
+        "posicao": 2,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "6:52.556"
+      },
+      {
+        "posicao": 3,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "6:55.709"
+      },
+      {
+        "posicao": 4,
+        "nome": "MR BEAN",
+        "id": 7747,
+        "tempo": "7:27.029"
+      }
+    ]
+  },
+  {
+    "numero": 96,
+    "pista": "Afterglow",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard",
+        "id": 1839,
+        "tempo": "10:28.600"
+      },
+      {
+        "posicao": 2,
+        "nome": "carioca",
+        "id": 7457,
+        "tempo": "10:35.704"
+      },
+      {
+        "posicao": 3,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "11:17.648"
+      },
+      {
+        "posicao": 4,
+        "nome": "King Snake",
+        "id": 3620,
+        "tempo": "11:19.099"
+      },
+      {
+        "posicao": 5,
+        "nome": "MR BEAN",
+        "id": 7747,
+        "tempo": "11:31.807"
+      },
+      {
+        "posicao": 6,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "12:15.393"
+      }
+    ]
+  },
+  {
+    "numero": 97,
+    "pista": "Afterglow",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "11:47.684"
+      },
+      {
+        "posicao": 2,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "12:02.689"
+      },
+      {
+        "posicao": 3,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "14:16.143"
+      }
+    ]
+  },
+  {
+    "numero": 98,
+    "pista": "Guillotine",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "8:08.502"
+      },
+      {
+        "posicao": 2,
+        "nome": "Godzila",
+        "id": 9431,
+        "tempo": "9:18.980"
+      },
+      {
+        "posicao": 3,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "9:29.355"
+      }
+    ]
+  },
+  {
+    "numero": 99,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:44.082"
+      },
+      {
+        "posicao": 2,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "5:48.154"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:22.998"
+      },
+      {
+        "posicao": 4,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "6:23.899"
+      },
+      {
+        "posicao": 5,
+        "nome": "Godzila",
+        "id": 9431,
+        "tempo": "6:25.901"
+      }
+    ]
+  },
+  {
+    "numero": 100,
+    "pista": "Concrete Corners",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "5:08.559"
+      },
+      {
+        "posicao": 2,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:30.545"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "5:35.847"
+      },
+      {
+        "posicao": 4,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "5:52.922"
+      }
+    ]
+  },
+  {
+    "numero": 101,
+    "pista": "Directors Cut",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "7:13.449"
+      },
+      {
+        "posicao": 2,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "8:08.419"
+      },
+      {
+        "posicao": 3,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "8:47.574"
+      }
+    ]
+  },
+  {
+    "numero": 102,
+    "pista": "Eastside GP",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "6:17.561"
+      },
+      {
+        "posicao": 2,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "7:00.369"
+      },
+      {
+        "posicao": 3,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "7:30.380"
+      }
+    ]
+  },
+  {
+    "numero": 103,
+    "pista": "Dance Dance Revolution",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:56.310"
+      },
+      {
+        "posicao": 2,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "7:05.974"
+      },
+      {
+        "posicao": 3,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "7:15.585"
+      }
+    ]
+  },
+  {
+    "numero": 104,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:45.391"
+      },
+      {
+        "posicao": 2,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "6:20.723"
+      },
+      {
+        "posicao": 3,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "6:57.069"
+      }
+    ]
+  },
+  {
+    "numero": 105,
+    "pista": "10-80",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "6:17.927"
+      },
+      {
+        "posicao": 2,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "6:24.030"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:28.330"
+      },
+      {
+        "posicao": 4,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "6:35.931"
+      },
+      {
+        "posicao": 5,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "6:53.635"
+      }
+    ]
+  },
+  {
+    "numero": 106,
+    "pista": "Downtown Throwdown",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:52.190"
+      },
+      {
+        "posicao": 2,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "5:53.740"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "5:56.044"
+      },
+      {
+        "posicao": 4,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "5:56.898"
+      },
+      {
+        "posicao": 5,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "6:14.193"
+      }
+    ]
+  },
+  {
+    "numero": 107,
+    "pista": "Spirit Fall",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "6:22.874"
+      },
+      {
+        "posicao": 2,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "6:23.474"
+      },
+      {
+        "posicao": 3,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "6:32.074"
+      },
+      {
+        "posicao": 4,
+        "nome": "erro404user",
+        "id": 106,
+        "tempo": "7:51.137"
+      },
+      {
+        "posicao": 5,
+        "nome": "APOLLO",
+        "id": 9377,
+        "tempo": "8:07.642"
+      }
+    ]
+  },
+  {
+    "numero": 108,
+    "pista": "On The Way To Lockdown",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "8:27.464"
+      },
+      {
+        "posicao": 2,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "8:29.314"
+      },
+      {
+        "posicao": 3,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "8:41.264"
+      }
+    ]
+  },
+  {
+    "numero": 109,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "5:29.963"
+      },
+      {
+        "posicao": 2,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "5:31.064"
+      },
+      {
+        "posicao": 3,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "5:40.315"
+      },
+      {
+        "posicao": 4,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:42.616"
+      }
+    ]
+  },
+  {
+    "numero": 110,
+    "pista": "BBD Breeze",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "5:40.381"
+      },
+      {
+        "posicao": 2,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "5:42.281"
+      },
+      {
+        "posicao": 3,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "5:56.953"
+      }
+    ]
+  },
+  {
+    "numero": 111,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Senninha",
+        "id": 211,
+        "tempo": "6:12.484"
+      },
+      {
+        "posicao": 2,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "6:16.937"
+      },
+      {
+        "posicao": 3,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "6:18.037"
+      },
+      {
+        "posicao": 4,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "6:27.106"
+      },
+      {
+        "posicao": 5,
+        "nome": "—",
+        "id": 8790,
+        "tempo": "7:14.615"
+      },
+      {
+        "posicao": 6,
+        "nome": "jottax7",
+        "id": 7264,
+        "tempo": "7:58.494"
+      }
+    ]
+  },
+  {
+    "numero": 112,
+    "pista": "Redline Touge",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Senninha",
+        "id": 211,
+        "tempo": "11:11.859"
+      },
+      {
+        "posicao": 2,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "11:16.831"
+      },
+      {
+        "posicao": 3,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "11:21.281"
+      },
+      {
+        "posicao": 4,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "11:39.240"
+      },
+      {
+        "posicao": 5,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "11:41.641"
+      }
+    ]
+  },
+  {
+    "numero": 113,
+    "pista": "Concrete Corners",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "little hand",
+        "id": 180,
+        "tempo": "5:20.545"
+      },
+      {
+        "posicao": 2,
+        "nome": "Dellas",
+        "id": 1566,
+        "tempo": "5:27.096"
+      },
+      {
+        "posicao": 3,
+        "nome": "Angolas",
+        "id": 104,
+        "tempo": "5:31.449"
+      }
+    ]
+  },
+  {
+    "numero": 114,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "6:10.743"
+      },
+      {
+        "posicao": 2,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "6:29.152"
+      },
+      {
+        "posicao": 3,
+        "nome": "Relampago",
+        "id": 8574,
+        "tempo": "7:32.903"
+      }
+    ]
+  },
+  {
+    "numero": 115,
+    "pista": "Afterglow",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "11:10.212"
+      },
+      {
+        "posicao": 2,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "11:45.745"
+      },
+      {
+        "posicao": 3,
+        "nome": "Lia",
+        "id": 442,
+        "tempo": "13:06.295"
+      },
+      {
+        "posicao": 4,
+        "nome": "CHICANO",
+        "id": 1484,
+        "tempo": "13:15.549"
+      }
+    ]
+  },
+  {
+    "numero": 116,
+    "pista": "Guillotine",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "7:48.344"
+      },
+      {
+        "posicao": 2,
+        "nome": "Argentino",
+        "id": 303,
+        "tempo": "8:06.521"
+      },
+      {
+        "posicao": 3,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "8:08.222"
+      },
+      {
+        "posicao": 4,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "8:15.130"
+      },
+      {
+        "posicao": 5,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "8:17.081"
+      }
+    ]
+  },
+  {
+    "numero": 117,
+    "pista": "Triple Trouble",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "zouwz",
+        "id": 22,
+        "tempo": "5:16.485"
+      },
+      {
+        "posicao": 2,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "5:35.702"
+      },
+      {
+        "posicao": 3,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "5:56.778"
+      },
+      {
+        "posicao": 4,
+        "nome": "Lia",
+        "id": 442,
+        "tempo": "6:05.644"
+      }
+    ]
+  },
+  {
+    "numero": 118,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "37 / zouwz",
+        "id": 22,
+        "tempo": "5:54.961"
+      },
+      {
+        "posicao": 2,
+        "nome": "hazard I 1839",
+        "id": 1839,
+        "tempo": "6:03.620"
+      },
+      {
+        "posicao": 3,
+        "nome": "1066 | Psy",
+        "id": 1066,
+        "tempo": "6:03.920"
+      },
+      {
+        "posicao": 4,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "6:05.671"
+      },
+      {
+        "posicao": 5,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "6:08.575"
+      },
+      {
+        "posicao": 6,
+        "nome": "RSETE/180",
+        "id": 180,
+        "tempo": "6:13.782"
+      },
+      {
+        "posicao": 7,
+        "nome": "SIXX | 220",
+        "id": 220,
+        "tempo": "6:20.690"
+      },
+      {
+        "posicao": 8,
+        "nome": "1361| blank",
+        "id": 1363,
+        "tempo": "6:22.889"
+      },
+      {
+        "posicao": 9,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "6:26.494"
+      },
+      {
+        "posicao": 10,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "6:26.844"
+      },
+      {
+        "posicao": 11,
+        "nome": "RT - 1702",
+        "id": 1702,
+        "tempo": "6:28.295"
+      },
+      {
+        "posicao": 12,
+        "nome": "Constantine",
+        "id": 8479,
+        "tempo": "6:34.524"
+      },
+      {
+        "posicao": 13,
+        "nome": "Ismael Sevenx | 302",
+        "id": 302,
+        "tempo": "6:37.628"
+      },
+      {
+        "posicao": 14,
+        "nome": "Dellas1566",
+        "id": 1566,
+        "tempo": "6:40.927"
+      },
+      {
+        "posicao": 15,
+        "nome": "[KAY] Lia - 442",
+        "id": 442,
+        "tempo": "6:46.888"
+      },
+      {
+        "posicao": 16,
+        "nome": "joey",
+        "id": 9626,
+        "tempo": "6:50.945"
+      },
+      {
+        "posicao": 17,
+        "nome": "Gomes8447",
+        "id": 8447,
+        "tempo": "6:57.104"
+      },
+      {
+        "posicao": 18,
+        "nome": "Felipex 8826",
+        "id": 8826,
+        "tempo": "7:07.217"
+      },
+      {
+        "posicao": 19,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "7:07.919"
+      },
+      {
+        "posicao": 20,
+        "nome": "Marques Lobo 108",
+        "id": 108,
+        "tempo": "7:10.224"
+      },
+      {
+        "posicao": 21,
+        "nome": "HenrryZada 3620",
+        "id": 3620,
+        "tempo": "8:13.855"
+      }
+    ]
+  },
+  {
+    "numero": 119,
+    "pista": "Afterglow",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard I 1839",
+        "id": 1839,
+        "tempo": "10:32.396"
+      },
+      {
+        "posicao": 2,
+        "nome": "37 / zouwz",
+        "id": 22,
+        "tempo": "10:40.750"
+      },
+      {
+        "posicao": 3,
+        "nome": "1066 | Psy",
+        "id": 1066,
+        "tempo": "10:45.771"
+      },
+      {
+        "posicao": 4,
+        "nome": "1207|SHINA",
+        "id": 1207,
+        "tempo": "11:05.213"
+      },
+      {
+        "posicao": 5,
+        "nome": "Dellas1566",
+        "id": 1566,
+        "tempo": "11:07.818"
+      },
+      {
+        "posicao": 6,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "11:08.128"
+      },
+      {
+        "posicao": 7,
+        "nome": "RSETE/180",
+        "id": 180,
+        "tempo": "11:10.069"
+      },
+      {
+        "posicao": 8,
+        "nome": "Lsete 211",
+        "id": 211,
+        "tempo": "11:13.572"
+      },
+      {
+        "posicao": 9,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "11:15.773"
+      },
+      {
+        "posicao": 10,
+        "nome": "1361| blank",
+        "id": 1363,
+        "tempo": "11:22.529"
+      },
+      {
+        "posicao": 11,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "11:30.086"
+      },
+      {
+        "posicao": 12,
+        "nome": "SIXX | 220",
+        "id": 220,
+        "tempo": "11:30.939"
+      },
+      {
+        "posicao": 13,
+        "nome": "viana",
+        "id": 9469,
+        "tempo": "11:33.747"
+      },
+      {
+        "posicao": 14,
+        "nome": "RT - 1702",
+        "id": 1702,
+        "tempo": "11:44.218"
+      },
+      {
+        "posicao": 15,
+        "nome": "Ismael Sevenx | 302",
+        "id": 302,
+        "tempo": "11:45.367"
+      },
+      {
+        "posicao": 16,
+        "nome": "kong",
+        "id": 98,
+        "tempo": "11:54.880"
+      },
+      {
+        "posicao": 17,
+        "nome": "Marques Lobo 108",
+        "id": 108,
+        "tempo": "12:12.357"
+      },
+      {
+        "posicao": 18,
+        "nome": "matheus 2588",
+        "id": 2588,
+        "tempo": "12:17.021"
+      },
+      {
+        "posicao": 19,
+        "nome": "ARABELLA 1422",
+        "id": 1422,
+        "tempo": "12:17.222"
+      },
+      {
+        "posicao": 20,
+        "nome": "jota lovegood",
+        "id": 8527,
+        "tempo": "12:18.373"
+      },
+      {
+        "posicao": 21,
+        "nome": "[KAY] Lia - 442",
+        "id": 442,
+        "tempo": "12:21.573"
+      },
+      {
+        "posicao": 22,
+        "nome": "joey",
+        "id": 9626,
+        "tempo": "12:27.145"
+      }
+    ]
+  },
+  {
+    "numero": 120,
+    "pista": "Guillotine",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "hazard I 1839",
+        "id": 1839,
+        "tempo": "7:49.402"
+      },
+      {
+        "posicao": 2,
+        "nome": "37 / zouwz",
+        "id": 22,
+        "tempo": "7:49.649"
+      },
+      {
+        "posicao": 3,
+        "nome": "1066 | Psy",
+        "id": 1066,
+        "tempo": "7:50.100"
+      },
+      {
+        "posicao": 4,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "7:50.549"
+      },
+      {
+        "posicao": 5,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "7:52.501"
+      },
+      {
+        "posicao": 6,
+        "nome": "RSETE/180",
+        "id": 180,
+        "tempo": "8:06.761"
+      },
+      {
+        "posicao": 7,
+        "nome": "Lsete 211",
+        "id": 211,
+        "tempo": "8:10.715"
+      },
+      {
+        "posicao": 8,
+        "nome": "1361| blank",
+        "id": 1363,
+        "tempo": "8:13.319"
+      },
+      {
+        "posicao": 9,
+        "nome": "Dellas1566",
+        "id": 1566,
+        "tempo": "8:13.569"
+      },
+      {
+        "posicao": 10,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "8:15.120"
+      },
+      {
+        "posicao": 11,
+        "nome": "HenrryZada 3620",
+        "id": 3620,
+        "tempo": "8:15.220"
+      },
+      {
+        "posicao": 12,
+        "nome": "1207|SHINA",
+        "id": 1207,
+        "tempo": "8:16.771"
+      },
+      {
+        "posicao": 13,
+        "nome": "SIXX | 220",
+        "id": 220,
+        "tempo": "8:22.727"
+      },
+      {
+        "posicao": 14,
+        "nome": "kong",
+        "id": 98,
+        "tempo": "8:29.835"
+      },
+      {
+        "posicao": 15,
+        "nome": "RT - 1702",
+        "id": 1702,
+        "tempo": "8:32.451"
+      },
+      {
+        "posicao": 16,
+        "nome": "matheus 2588",
+        "id": 2588,
+        "tempo": "8:50.008"
+      },
+      {
+        "posicao": 17,
+        "nome": "[KAY] Lia - 442",
+        "id": 442,
+        "tempo": "8:50.862"
+      },
+      {
+        "posicao": 18,
+        "nome": "Ismael Sevenx | 302",
+        "id": 302,
+        "tempo": "9:00.730"
+      },
+      {
+        "posicao": 19,
+        "nome": "Marques Lobo 108",
+        "id": 108,
+        "tempo": "9:00.930"
+      },
+      {
+        "posicao": 20,
+        "nome": "ARABELLA 1422",
+        "id": 1422,
+        "tempo": "9:16.176"
+      }
+    ]
+  },
+  {
+    "numero": 121,
+    "pista": "JetSam",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 2,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "4:15.553"
+      },
+      {
+        "posicao": 3,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "4:20.908"
+      },
+      {
+        "posicao": 4,
+        "nome": "777",
+        "id": 100,
+        "tempo": "4:34.281"
+      },
+      {
+        "posicao": 5,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "4:35.286"
+      },
+      {
+        "posicao": 6,
+        "nome": "SIXX | 220",
+        "id": 220,
+        "tempo": "4:49.052"
+      }
+    ]
+  },
+  {
+    "numero": 122,
+    "pista": "Eastside Oilers",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "37 / zouwz",
+        "id": 22,
+        "tempo": "5:26.609"
+      },
+      {
+        "posicao": 2,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "5:39.820"
+      },
+      {
+        "posicao": 3,
+        "nome": "777",
+        "id": 100,
+        "tempo": "6:14.025"
+      },
+      {
+        "posicao": 4,
+        "nome": "SIXX | 220",
+        "id": 220,
+        "tempo": "6:15.675"
+      },
+      {
+        "posicao": 5,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:35.399"
+      },
+      {
+        "posicao": 6,
+        "nome": "Carioca",
+        "id": 9132,
+        "tempo": "6:47.114"
+      }
+    ]
+  },
+  {
+    "numero": 123,
+    "pista": "Concrete Corners",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:05",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "5:21.097"
+      },
+      {
+        "posicao": 2,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "5:40.890"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:42.700"
+      },
+      {
+        "posicao": 4,
+        "nome": "Carioca",
+        "id": 9132,
+        "tempo": "6:01.279"
+      }
+    ]
+  },
+  {
+    "numero": 124,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "6:11.094"
+      },
+      {
+        "posicao": 2,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "6:20.952"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:24.909"
+      },
+      {
+        "posicao": 4,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:50.530"
+      }
+    ]
+  },
+  {
+    "numero": 125,
+    "pista": "Dance Dance Revolution",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "5:57.424"
+      },
+      {
+        "posicao": 2,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "6:07.483"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:08.335"
+      },
+      {
+        "posicao": 4,
+        "nome": "Ngm",
+        "id": 16,
+        "tempo": "6:11.692"
+      },
+      {
+        "posicao": 5,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:33.622"
+      }
+    ]
+  },
+  {
+    "numero": 126,
+    "pista": "Directors Cut",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "6:59.564"
+      },
+      {
+        "posicao": 2,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "7:03.066"
+      },
+      {
+        "posicao": 3,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "7:18.712"
+      },
+      {
+        "posicao": 4,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "7:20.613"
+      },
+      {
+        "posicao": 5,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "7:26.816"
+      }
+    ]
+  },
+  {
+    "numero": 127,
+    "pista": "Spirit Fall",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "sixx",
+        "id": 220,
+        "tempo": "6:11.208"
+      },
+      {
+        "posicao": 2,
+        "nome": "DoLittle | 1899",
+        "id": 1899,
+        "tempo": "6:11.808"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "6:55.524"
+      }
+    ]
+  },
+  {
+    "numero": 128,
+    "pista": "BBD Breeze",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "APOLLO",
+        "id": 9377,
+        "tempo": "6:55.819"
+      },
+      {
+        "posicao": 2,
+        "nome": "Fantasma",
+        "id": 9367,
+        "tempo": "6:58.169"
+      },
+      {
+        "posicao": 3,
+        "nome": "Poseidon",
+        "id": 9370,
+        "tempo": "7:25.574"
+      },
+      {
+        "posicao": 4,
+        "nome": "JOAO PERNA",
+        "id": 9647,
+        "tempo": "7:37.580"
+      }
+    ]
+  },
+  {
+    "numero": 129,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Fantasma",
+        "id": 9367,
+        "tempo": "7:11.036"
+      },
+      {
+        "posicao": 2,
+        "nome": "APOLLO",
+        "id": 9377,
+        "tempo": "7:25.990"
+      },
+      {
+        "posicao": 3,
+        "nome": "Poseidon",
+        "id": 9370,
+        "tempo": "8:09.353"
+      },
+      {
+        "posicao": 4,
+        "nome": "JOAO PERNA",
+        "id": 9647,
+        "tempo": "11:46.878"
+      }
+    ]
+  },
+  {
+    "numero": 130,
+    "pista": "Directors Cut",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "1361| blank",
+        "id": 1363,
+        "tempo": "7:24.248"
+      },
+      {
+        "posicao": 2,
+        "nome": "Constantine",
+        "id": 8479,
+        "tempo": "7:26.299"
+      },
+      {
+        "posicao": 3,
+        "nome": "godzin1v99",
+        "id": 4139,
+        "tempo": "8:21.243"
+      }
+    ]
+  },
+  {
+    "numero": 131,
+    "pista": "Outbreak",
+    "modo": "sprint",
+    "data": "31/05/2026, 17:32:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "1361| blank",
+        "id": 1363,
+        "tempo": "6:34.639"
+      },
+      {
+        "posicao": 2,
+        "nome": "Constantine",
+        "id": 8479,
+        "tempo": "7:03.546"
+      },
+      {
+        "posicao": 3,
+        "nome": "ML",
+        "id": 9350,
+        "tempo": "8:09.282"
+      }
+    ]
+  },
+  {
+    "numero": 132,
+    "pista": "Mockingbird",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "1361| blank",
+        "id": 1363,
+        "tempo": "6:16.968"
+      },
+      {
+        "posicao": 2,
+        "nome": "Wesley",
+        "id": 8046,
+        "tempo": "6:16.968"
+      },
+      {
+        "posicao": 3,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "6:26.070"
+      },
+      {
+        "posicao": 4,
+        "nome": "Constantine",
+        "id": 8479,
+        "tempo": "6:36.273"
+      },
+      {
+        "posicao": 5,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "6:36.523"
+      }
+    ]
+  },
+  {
+    "numero": 133,
+    "pista": "Double Trouble",
+    "modo": "circuit",
+    "data": "31/05/2026, 17:32:06",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "the sole exception",
+        "id": 1269,
+        "tempo": "6:43.606"
+      },
+      {
+        "posicao": 2,
+        "nome": "Wesley",
+        "id": 8046,
+        "tempo": "6:46.056"
+      },
+      {
+        "posicao": 3,
+        "nome": "Gab",
+        "id": 9448,
+        "tempo": "6:46.908"
+      },
+      {
+        "posicao": 4,
+        "nome": "Constantine",
+        "id": 8479,
+        "tempo": "7:21.772"
+      }
+    ]
+  },
+  {
+    "numero": 134,
+    "pista": "Double Trouble",
+    "modo": "circuit",
+    "data": "01/06/2026, 00:31:36",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "7:07.102"
+      },
+      {
+        "posicao": 2,
+        "nome": "Proeza",
+        "id": 8415,
+        "tempo": "7:18.950"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mounjaro",
+        "id": 8403,
+        "tempo": "8:13.271"
+      }
+    ]
+  },
+  {
+    "numero": 135,
+    "pista": "Concrete Corners",
+    "modo": "circuit",
+    "data": "01/06/2026, 00:43:57",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "5:22.916"
+      },
+      {
+        "posicao": 2,
+        "nome": "Proeza",
+        "id": 8415,
+        "tempo": "5:33.970"
+      },
+      {
+        "posicao": 3,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "5:43.781"
+      },
+      {
+        "posicao": 4,
+        "nome": "Mounjaro",
+        "id": 8403,
+        "tempo": "5:44.432"
+      }
+    ]
+  },
+  {
+    "numero": 136,
+    "pista": "Downtown Throwdown",
+    "modo": "circuit",
+    "data": "01/06/2026, 00:57:38",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Proeza",
+        "id": 8415,
+        "tempo": "5:50.899"
+      },
+      {
+        "posicao": 2,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "5:53.249"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mounjaro",
+        "id": 8403,
+        "tempo": "6:24.959"
+      },
+      {
+        "posicao": 4,
+        "nome": "chefinho",
+        "id": 8404,
+        "tempo": "7:38.837"
+      }
+    ]
+  },
+  {
+    "numero": 137,
+    "pista": "10-80",
+    "modo": "circuit",
+    "data": "01/06/2026, 01:13:58",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "Proeza",
+        "id": 8415,
+        "tempo": "6:25.990"
+      },
+      {
+        "posicao": 2,
+        "nome": "nkJota",
+        "id": 7187,
+        "tempo": "6:35.894"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mounjaro",
+        "id": 8403,
+        "tempo": "6:57.952"
+      }
+    ]
+  }
+]

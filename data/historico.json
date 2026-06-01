@@ -1,0 +1,876 @@
+[
+  {
+    "numero": 1,
+    "data": "14/05/2026, 18:44:35",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1269,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 1422,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 89,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 90,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 22,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 100,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 203,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 2,
+    "data": "15/05/2026, 13:21:08",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1269,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 1422,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1890,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 105,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 200,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 4890,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 5850,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 184,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 3,
+    "data": "15/05/2026, 13:21:50",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1269,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 1422,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1890,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 105,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 200,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 4890,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 5850,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 184,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 4,
+    "data": "15/05/2026, 13:22:06",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1269,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 1422,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1890,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 105,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 200,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 4890,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 5850,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 184,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 5,
+    "data": "15/05/2026, 13:22:37",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1269,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 1422,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1890,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 105,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 200,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 4890,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 5850,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 184,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 6,
+    "data": "15/05/2026, 13:25:33",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1269,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 1422,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1890,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 105,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 200,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 4890,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 5850,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 184,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 7,
+    "data": "15/05/2026, 13:27:38",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1269,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 8040,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1422,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 8902,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 8940,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 1829,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 942,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 8,
+    "data": "15/05/2026, 13:33:30",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1269,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 8040,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1422,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 8902,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 8940,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 1829,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 942,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 9,
+    "data": "15/05/2026, 13:39:10",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1269,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 8040,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1422,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 8902,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 8940,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 1829,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 942,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 10,
+    "data": "15/05/2026, 13:39:49",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1269,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 8040,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1422,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 8902,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 8940,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 1829,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 942,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 11,
+    "data": "15/05/2026, 13:53:02",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1702,
+        "pontos": 1000
+      },
+      {
+        "posicao": 2,
+        "id": 8040,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1422,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 8902,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 8940,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 1829,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 942,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 12,
+    "data": "15/05/2026, 14:03:18",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1702,
+        "pontos": 1000
+      },
+      {
+        "posicao": 2,
+        "id": 8040,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1422,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 8902,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 8940,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 1829,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 942,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 13,
+    "data": "15/05/2026, 14:05:29",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 2482,
+        "pontos": 1000
+      },
+      {
+        "posicao": 2,
+        "id": 8040,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1422,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 8902,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 8940,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 1829,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 942,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 14,
+    "data": "15/05/2026, 14:05:50",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 2482,
+        "pontos": 1000
+      },
+      {
+        "posicao": 2,
+        "id": 8040,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1422,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 8902,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 8940,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 1829,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 942,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 15,
+    "data": "15/05/2026, 14:06:09",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 2482,
+        "pontos": 1000
+      },
+      {
+        "posicao": 2,
+        "id": 8040,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1422,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 8902,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 8940,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 1829,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 942,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 16,
+    "data": "15/05/2026, 14:15:31",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1702,
+        "pontos": 1000
+      },
+      {
+        "posicao": 2,
+        "id": 8040,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1899,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1422,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 8902,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 8940,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 1829,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 942,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 17,
+    "data": "30/05/2026, 21:40:47",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 22,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 1839,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1066,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1275,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 1269,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 180,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 220,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 1363,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 18,
+    "data": "30/05/2026, 22:10:34",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1839,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 22,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1066,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1207,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 1566,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 1899,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 180,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 211,
+        "pontos": 1
+      }
+    ]
+  },
+  {
+    "numero": 19,
+    "data": "30/05/2026, 22:28:51",
+    "resultado": [
+      {
+        "posicao": 1,
+        "id": 1839,
+        "pontos": 10
+      },
+      {
+        "posicao": 2,
+        "id": 22,
+        "pontos": 8
+      },
+      {
+        "posicao": 3,
+        "id": 1066,
+        "pontos": 6
+      },
+      {
+        "posicao": 4,
+        "id": 1275,
+        "pontos": 5
+      },
+      {
+        "posicao": 5,
+        "id": 1899,
+        "pontos": 4
+      },
+      {
+        "posicao": 6,
+        "id": 180,
+        "pontos": 3
+      },
+      {
+        "posicao": 7,
+        "id": 211,
+        "pontos": 2
+      },
+      {
+        "posicao": 8,
+        "id": 1363,
+        "pontos": 1
+      }
+    ]
+  }
+]
