@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3333";
+const API_URL = "https://hello-quiet-dashboard.onrender.comhttps://hello-quiet-dashboard.onrender.com";
 
 export async function getRanking() {
     const res = await fetch(`${API_URL}/ranking`);
