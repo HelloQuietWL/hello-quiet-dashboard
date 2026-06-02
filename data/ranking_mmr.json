@@ -2181,6 +2181,201 @@
     }
   },
   {
+    "id": 1275,
+    "nomeAtual": "SEC | prodigy",
+    "nome": "SEC | prodigy",
+    "historicoNomes": [
+      "SEC | prodigy"
+    ],
+    "mmr": 1279.84,
+    "corridas": 11,
+    "vitorias": 2,
+    "top3": 5,
+    "winrate": 18.18,
+    "podiumRate": 45.45,
+    "mediaColocacao": 4,
+    "melhorColocacao": 1,
+    "totalPosicoes": 44,
+    "ganhoTotalMMR": 279.84,
+    "ultimasCorridas": [
+      {
+        "corrida": 73,
+        "pista": "Mockingbird",
+        "modo": "circuit",
+        "posicao": 4,
+        "tempo": "6:05.671",
+        "mmrAntes": 1008.93,
+        "mmrDepois": 1045.58,
+        "ganhoMMR": 36.65,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 74,
+        "pista": "Afterglow",
+        "modo": "sprint",
+        "posicao": 9,
+        "tempo": "11:15.773",
+        "mmrAntes": 1045.58,
+        "mmrDepois": 1077.5,
+        "ganhoMMR": 31.92,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 75,
+        "pista": "Guillotine",
+        "modo": "sprint",
+        "posicao": 4,
+        "tempo": "7:50.549",
+        "mmrAntes": 1077.5,
+        "mmrDepois": 1111.99,
+        "ganhoMMR": 34.49,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 76,
+        "pista": "JetSam",
+        "modo": "circuit",
+        "posicao": 3,
+        "tempo": "4:20.908",
+        "mmrAntes": 1111.99,
+        "mmrDepois": 1123.63,
+        "ganhoMMR": 11.64,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 118,
+        "pista": "Mockingbird",
+        "modo": "circuit",
+        "posicao": 4,
+        "tempo": "6:05.671",
+        "mmrAntes": 1123.63,
+        "mmrDepois": 1154.18,
+        "ganhoMMR": 30.55,
+        "integridadeCorrida": 0.85,
+        "motivosSuspeita": [
+          "HenrryZada 3620 ficou mais de 20% pior que sua média na pista."
+        ]
+      },
+      {
+        "corrida": 119,
+        "pista": "Afterglow",
+        "modo": "sprint",
+        "posicao": 9,
+        "tempo": "11:15.773",
+        "mmrAntes": 1154.18,
+        "mmrDepois": 1185.59,
+        "ganhoMMR": 31.41,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 120,
+        "pista": "Guillotine",
+        "modo": "sprint",
+        "posicao": 4,
+        "tempo": "7:50.549",
+        "mmrAntes": 1185.59,
+        "mmrDepois": 1219.84,
+        "ganhoMMR": 34.25,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 121,
+        "pista": "JetSam",
+        "modo": "circuit",
+        "posicao": 3,
+        "tempo": "4:20.908",
+        "mmrAntes": 1219.84,
+        "mmrDepois": 1232.71,
+        "ganhoMMR": 12.87,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 138,
+        "pista": "Dance Dance Revolution",
+        "modo": "sprint",
+        "posicao": 1,
+        "tempo": "6:10.818",
+        "mmrAntes": 1232.71,
+        "mmrDepois": 1256.43,
+        "ganhoMMR": 23.72,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 139,
+        "pista": "Guillotine",
+        "modo": "sprint",
+        "posicao": 1,
+        "tempo": "8:05.670",
+        "mmrAntes": 1256.43,
+        "mmrDepois": 1279.84,
+        "ganhoMMR": 23.41,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      }
+    ],
+    "desempenhoPorPista": {
+      "JetSam": {
+        "corridas": 3,
+        "vitorias": 0,
+        "top3": 3,
+        "melhorColocacao": 2,
+        "tempos": [
+          "4:13.433",
+          "4:20.908",
+          "4:20.908"
+        ]
+      },
+      "Mockingbird": {
+        "corridas": 2,
+        "vitorias": 0,
+        "top3": 0,
+        "melhorColocacao": 4,
+        "tempos": [
+          "6:05.671",
+          "6:05.671"
+        ]
+      },
+      "Afterglow": {
+        "corridas": 2,
+        "vitorias": 0,
+        "top3": 0,
+        "melhorColocacao": 9,
+        "tempos": [
+          "11:15.773",
+          "11:15.773"
+        ]
+      },
+      "Guillotine": {
+        "corridas": 3,
+        "vitorias": 1,
+        "top3": 1,
+        "melhorColocacao": 1,
+        "tempos": [
+          "7:50.549",
+          "7:50.549",
+          "8:05.670"
+        ]
+      },
+      "Dance Dance Revolution": {
+        "corridas": 1,
+        "vitorias": 1,
+        "top3": 1,
+        "melhorColocacao": 1,
+        "tempos": [
+          "6:10.818"
+        ]
+      }
+    }
+  },
+  {
     "id": 1066,
     "nomeAtual": "1066 | Psy",
     "nome": "1066 | Psy",
@@ -3514,179 +3709,6 @@
         "tempos": [
           "8:13.569",
           "8:13.569"
-        ]
-      }
-    }
-  },
-  {
-    "id": 1275,
-    "nomeAtual": "SEC | prodigy",
-    "nome": "SEC | prodigy",
-    "historicoNomes": [
-      "SEC | prodigy"
-    ],
-    "mmr": 1232.71,
-    "corridas": 9,
-    "vitorias": 0,
-    "top3": 3,
-    "winrate": 0,
-    "podiumRate": 33.33,
-    "mediaColocacao": 4.67,
-    "melhorColocacao": 2,
-    "totalPosicoes": 42,
-    "ganhoTotalMMR": 232.71,
-    "ultimasCorridas": [
-      {
-        "corrida": 15,
-        "pista": "JetSam",
-        "modo": "circuit",
-        "posicao": 2,
-        "tempo": "4:13.433",
-        "mmrAntes": 1000,
-        "mmrDepois": 1008.93,
-        "ganhoMMR": 8.93,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      },
-      {
-        "corrida": 73,
-        "pista": "Mockingbird",
-        "modo": "circuit",
-        "posicao": 4,
-        "tempo": "6:05.671",
-        "mmrAntes": 1008.93,
-        "mmrDepois": 1045.58,
-        "ganhoMMR": 36.65,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      },
-      {
-        "corrida": 74,
-        "pista": "Afterglow",
-        "modo": "sprint",
-        "posicao": 9,
-        "tempo": "11:15.773",
-        "mmrAntes": 1045.58,
-        "mmrDepois": 1077.5,
-        "ganhoMMR": 31.92,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      },
-      {
-        "corrida": 75,
-        "pista": "Guillotine",
-        "modo": "sprint",
-        "posicao": 4,
-        "tempo": "7:50.549",
-        "mmrAntes": 1077.5,
-        "mmrDepois": 1111.99,
-        "ganhoMMR": 34.49,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      },
-      {
-        "corrida": 76,
-        "pista": "JetSam",
-        "modo": "circuit",
-        "posicao": 3,
-        "tempo": "4:20.908",
-        "mmrAntes": 1111.99,
-        "mmrDepois": 1123.63,
-        "ganhoMMR": 11.64,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      },
-      {
-        "corrida": 118,
-        "pista": "Mockingbird",
-        "modo": "circuit",
-        "posicao": 4,
-        "tempo": "6:05.671",
-        "mmrAntes": 1123.63,
-        "mmrDepois": 1154.18,
-        "ganhoMMR": 30.55,
-        "integridadeCorrida": 0.85,
-        "motivosSuspeita": [
-          "HenrryZada 3620 ficou mais de 20% pior que sua média na pista."
-        ]
-      },
-      {
-        "corrida": 119,
-        "pista": "Afterglow",
-        "modo": "sprint",
-        "posicao": 9,
-        "tempo": "11:15.773",
-        "mmrAntes": 1154.18,
-        "mmrDepois": 1185.59,
-        "ganhoMMR": 31.41,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      },
-      {
-        "corrida": 120,
-        "pista": "Guillotine",
-        "modo": "sprint",
-        "posicao": 4,
-        "tempo": "7:50.549",
-        "mmrAntes": 1185.59,
-        "mmrDepois": 1219.84,
-        "ganhoMMR": 34.25,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      },
-      {
-        "corrida": 121,
-        "pista": "JetSam",
-        "modo": "circuit",
-        "posicao": 3,
-        "tempo": "4:20.908",
-        "mmrAntes": 1219.84,
-        "mmrDepois": 1232.71,
-        "ganhoMMR": 12.87,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      }
-    ],
-    "desempenhoPorPista": {
-      "JetSam": {
-        "corridas": 3,
-        "vitorias": 0,
-        "top3": 3,
-        "melhorColocacao": 2,
-        "tempos": [
-          "4:13.433",
-          "4:20.908",
-          "4:20.908"
-        ]
-      },
-      "Mockingbird": {
-        "corridas": 2,
-        "vitorias": 0,
-        "top3": 0,
-        "melhorColocacao": 4,
-        "tempos": [
-          "6:05.671",
-          "6:05.671"
-        ]
-      },
-      "Afterglow": {
-        "corridas": 2,
-        "vitorias": 0,
-        "top3": 0,
-        "melhorColocacao": 9,
-        "tempos": [
-          "11:15.773",
-          "11:15.773"
-        ]
-      },
-      "Guillotine": {
-        "corridas": 2,
-        "vitorias": 0,
-        "top3": 0,
-        "melhorColocacao": 4,
-        "tempos": [
-          "7:50.549",
-          "7:50.549"
         ]
       }
     }
@@ -7474,70 +7496,6 @@
     }
   },
   {
-    "id": 9367,
-    "nomeAtual": "Fantasma",
-    "nome": "Fantasma",
-    "historicoNomes": [
-      "Fantasma"
-    ],
-    "mmr": 1040.61,
-    "corridas": 2,
-    "vitorias": 1,
-    "top3": 2,
-    "winrate": 50,
-    "podiumRate": 100,
-    "mediaColocacao": 1.5,
-    "melhorColocacao": 1,
-    "totalPosicoes": 3,
-    "ganhoTotalMMR": 40.61,
-    "ultimasCorridas": [
-      {
-        "corrida": 128,
-        "pista": "BBD Breeze",
-        "modo": "circuit",
-        "posicao": 2,
-        "tempo": "6:58.169",
-        "mmrAntes": 1000,
-        "mmrDepois": 1008.35,
-        "ganhoMMR": 8.35,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      },
-      {
-        "corrida": 129,
-        "pista": "Mockingbird",
-        "modo": "circuit",
-        "posicao": 1,
-        "tempo": "7:11.036",
-        "mmrAntes": 1008.35,
-        "mmrDepois": 1040.61,
-        "ganhoMMR": 32.26,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      }
-    ],
-    "desempenhoPorPista": {
-      "BBD Breeze": {
-        "corridas": 1,
-        "vitorias": 0,
-        "top3": 1,
-        "melhorColocacao": 2,
-        "tempos": [
-          "6:58.169"
-        ]
-      },
-      "Mockingbird": {
-        "corridas": 1,
-        "vitorias": 1,
-        "top3": 1,
-        "melhorColocacao": 1,
-        "tempos": [
-          "7:11.036"
-        ]
-      }
-    }
-  },
-  {
     "id": 8826,
     "nomeAtual": "Felipex 8826",
     "nome": "Felipex 8826",
@@ -7596,22 +7554,108 @@
     }
   },
   {
+    "id": 9367,
+    "nomeAtual": "PinkGhost",
+    "nome": "PinkGhost",
+    "historicoNomes": [
+      "Fantasma",
+      "PinkGhost"
+    ],
+    "mmr": 1033.33,
+    "corridas": 3,
+    "vitorias": 1,
+    "top3": 3,
+    "winrate": 33.33,
+    "podiumRate": 100,
+    "mediaColocacao": 2,
+    "melhorColocacao": 1,
+    "totalPosicoes": 6,
+    "ganhoTotalMMR": 33.33,
+    "ultimasCorridas": [
+      {
+        "corrida": 128,
+        "pista": "BBD Breeze",
+        "modo": "circuit",
+        "posicao": 2,
+        "tempo": "6:58.169",
+        "mmrAntes": 1000,
+        "mmrDepois": 1008.35,
+        "ganhoMMR": 8.35,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 129,
+        "pista": "Mockingbird",
+        "modo": "circuit",
+        "posicao": 1,
+        "tempo": "7:11.036",
+        "mmrAntes": 1008.35,
+        "mmrDepois": 1040.61,
+        "ganhoMMR": 32.26,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 139,
+        "pista": "Guillotine",
+        "modo": "sprint",
+        "posicao": 3,
+        "tempo": "8:59.093",
+        "mmrAntes": 1040.61,
+        "mmrDepois": 1033.33,
+        "ganhoMMR": -7.28,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      }
+    ],
+    "desempenhoPorPista": {
+      "BBD Breeze": {
+        "corridas": 1,
+        "vitorias": 0,
+        "top3": 1,
+        "melhorColocacao": 2,
+        "tempos": [
+          "6:58.169"
+        ]
+      },
+      "Mockingbird": {
+        "corridas": 1,
+        "vitorias": 1,
+        "top3": 1,
+        "melhorColocacao": 1,
+        "tempos": [
+          "7:11.036"
+        ]
+      },
+      "Guillotine": {
+        "corridas": 1,
+        "vitorias": 0,
+        "top3": 1,
+        "melhorColocacao": 3,
+        "tempos": [
+          "8:59.093"
+        ]
+      }
+    }
+  },
+  {
     "id": 9377,
     "nomeAtual": "APOLLO",
     "nome": "APOLLO",
     "historicoNomes": [
       "APOLLO"
     ],
-    "mmr": 1022.18,
-    "corridas": 4,
+    "mmr": 1027.19,
+    "corridas": 5,
     "vitorias": 1,
-    "top3": 2,
-    "winrate": 25,
-    "podiumRate": 50,
-    "mediaColocacao": 3.25,
+    "top3": 3,
+    "winrate": 20,
+    "podiumRate": 60,
+    "mediaColocacao": 3,
     "melhorColocacao": 1,
-    "totalPosicoes": 13,
-    "ganhoTotalMMR": 22.18,
+    "totalPosicoes": 15,
+    "ganhoTotalMMR": 27.19,
     "ultimasCorridas": [
       {
         "corrida": 62,
@@ -7660,6 +7704,18 @@
         "ganhoMMR": 7.99,
         "integridadeCorrida": 1,
         "motivosSuspeita": []
+      },
+      {
+        "corrida": 138,
+        "pista": "Dance Dance Revolution",
+        "modo": "sprint",
+        "posicao": 2,
+        "tempo": "6:27.253",
+        "mmrAntes": 1022.18,
+        "mmrDepois": 1027.19,
+        "ganhoMMR": 5.01,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
       }
     ],
     "desempenhoPorPista": {
@@ -7689,6 +7745,15 @@
         "melhorColocacao": 2,
         "tempos": [
           "7:25.990"
+        ]
+      },
+      "Dance Dance Revolution": {
+        "corridas": 1,
+        "vitorias": 0,
+        "top3": 1,
+        "melhorColocacao": 2,
+        "tempos": [
+          "6:27.253"
         ]
       }
     }
@@ -10014,41 +10079,17 @@
     "historicoNomes": [
       "Leonardo Plautz"
     ],
-    "mmr": 949.76,
-    "corridas": 11,
+    "mmr": 954.89,
+    "corridas": 13,
     "vitorias": 0,
-    "top3": 4,
+    "top3": 6,
     "winrate": 0,
-    "podiumRate": 36.36,
-    "mediaColocacao": 4,
-    "melhorColocacao": 3,
-    "totalPosicoes": 44,
-    "ganhoTotalMMR": -50.24,
+    "podiumRate": 46.15,
+    "mediaColocacao": 3.77,
+    "melhorColocacao": 2,
+    "totalPosicoes": 49,
+    "ganhoTotalMMR": -45.11,
     "ultimasCorridas": [
-      {
-        "corrida": 57,
-        "pista": "Guillotine",
-        "modo": "sprint",
-        "posicao": 3,
-        "tempo": "9:29.355",
-        "mmrAntes": 991.83,
-        "mmrDepois": 983.66,
-        "ganhoMMR": -8.17,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      },
-      {
-        "corrida": 58,
-        "pista": "Triple Trouble",
-        "modo": "circuit",
-        "posicao": 4,
-        "tempo": "6:23.899",
-        "mmrAntes": 983.66,
-        "mmrDepois": 982.76,
-        "ganhoMMR": -0.9,
-        "integridadeCorrida": 1,
-        "motivosSuspeita": []
-      },
       {
         "corrida": 60,
         "pista": "10-80",
@@ -10144,6 +10185,30 @@
         "ganhoMMR": -3.76,
         "integridadeCorrida": 1,
         "motivosSuspeita": []
+      },
+      {
+        "corrida": 138,
+        "pista": "Dance Dance Revolution",
+        "modo": "sprint",
+        "posicao": 3,
+        "tempo": "6:27.902",
+        "mmrAntes": 949.76,
+        "mmrDepois": 946.02,
+        "ganhoMMR": -3.74,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
+      },
+      {
+        "corrida": 139,
+        "pista": "Guillotine",
+        "modo": "sprint",
+        "posicao": 2,
+        "tempo": "8:53.892",
+        "mmrAntes": 946.02,
+        "mmrDepois": 954.89,
+        "ganhoMMR": 8.87,
+        "integridadeCorrida": 1,
+        "motivosSuspeita": []
       }
     ],
     "desempenhoPorPista": {
@@ -10158,13 +10223,14 @@
         ]
       },
       "Guillotine": {
-        "corridas": 2,
+        "corridas": 3,
         "vitorias": 0,
-        "top3": 2,
-        "melhorColocacao": 3,
+        "top3": 3,
+        "melhorColocacao": 2,
         "tempos": [
           "9:29.355",
-          "9:29.355"
+          "9:29.355",
+          "8:53.892"
         ]
       },
       "Triple Trouble": {
@@ -10204,6 +10270,15 @@
         "melhorColocacao": 4,
         "tempos": [
           "5:52.922"
+        ]
+      },
+      "Dance Dance Revolution": {
+        "corridas": 1,
+        "vitorias": 0,
+        "top3": 1,
+        "melhorColocacao": 3,
+        "tempos": [
+          "6:27.902"
         ]
       }
     }

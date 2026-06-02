@@ -5060,5 +5060,57 @@
         "tempo": "6:57.952"
       }
     ]
+  },
+  {
+    "numero": 138,
+    "pista": "Dance Dance Revolution",
+    "modo": "sprint",
+    "data": "01/06/2026, 21:27:26",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "6:10.818"
+      },
+      {
+        "posicao": 2,
+        "nome": "APOLLO",
+        "id": 9377,
+        "tempo": "6:27.253"
+      },
+      {
+        "posicao": 3,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "6:27.902"
+      }
+    ]
+  },
+  {
+    "numero": 139,
+    "pista": "Guillotine",
+    "modo": "sprint",
+    "data": "01/06/2026, 21:27:26",
+    "participantes": [
+      {
+        "posicao": 1,
+        "nome": "SEC | prodigy",
+        "id": 1275,
+        "tempo": "8:05.670"
+      },
+      {
+        "posicao": 2,
+        "nome": "Leonardo Plautz",
+        "id": 9449,
+        "tempo": "8:53.892"
+      },
+      {
+        "posicao": 3,
+        "nome": "PinkGhost",
+        "id": 9367,
+        "tempo": "8:59.093"
+      }
+    ]
   }
 ]
